@@ -27,3 +27,10 @@ a:hover {
     line-height: 1.5;
     margin-top: 5px;
 }
+
+
+/* Alert 07 */
+.alert-teal{
+    background-color: #18ba9b;
+    color: #fff;
+}
